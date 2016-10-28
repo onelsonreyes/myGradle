@@ -1,1 +1,2 @@
 Este es la feature 2
+agegando informacion a la feature 2
